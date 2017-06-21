@@ -1,3 +1,5 @@
+**This tutorial is currently incomplete. Please ignore it for the moement :P**
+
 ### Welcome to the Basic Git Tutorial
 
 **BEFORE PROCEEDING**, if this is your first time working with git on your machine, it is recommended you go to the [git setup script repository](https://github.com/Bugatone/Git-Setup-Script) to help you configure your machine to properly work with git.
